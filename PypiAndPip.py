@@ -7,3 +7,5 @@
 
 # Open Terminal window below on your pycharm
 # add - (venv) app $pip install openpyxl
+
+# !! Should use > pip install openpyxl - comand only while downloading this package
