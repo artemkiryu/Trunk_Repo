@@ -1,4 +1,8 @@
-# trunk
+# Trunk reposatory
 
+Contains tutorials on multiple subjects.
 
-Contains Python tutorials on multiple subjects
+TECHNOLOGY
+- Python
+- HTML
+- JavaScript
